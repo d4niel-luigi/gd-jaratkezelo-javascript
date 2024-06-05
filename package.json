@@ -1,0 +1,16 @@
+{
+  "name": "jaratkezeloprojekt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+    "type": "module",
+    "scripts": {
+      "test": "vitest"
+    },
+    "devDependencies": {
+      "vitest": "^0.14.1"
+    },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
